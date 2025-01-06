@@ -1,0 +1,9 @@
+[package]
+name = "thinger/s19"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dependencies]
+Cmdr = "evaera/cmdr@1.12.0"
+Knit = "sleitnick/knit@1.7.0"
