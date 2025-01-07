@@ -28,6 +28,121 @@
       "KnitControllers": {
         "$path": "src/KnitControllers"
       }
+    },
+    "Teams": {
+      "$className": "Teams",
+      "Administrative Department": {
+        "$className": "Team",
+        "$properties": {
+          "AutoAssignable": false,
+          "TeamColor": {"BrickColor": 1}
+        }
+      },
+      "Chaos Insurgency": {
+        "$className": "Team",
+        "$properties": {
+          "AutoAssignable": false,
+          "TeamColor": {"BrickColor": 331}
+        }
+      },
+      "Class D": {
+        "$className": "Team",
+        "$properties": {
+          "AutoAssignable": true,
+          "TeamColor": {"BrickColor": 333}
+        }
+      },
+      "Ethics Committee": {
+        "$className": "Team",
+        "$properties": {
+          "AutoAssignable": false,
+          "TeamColor": {"BrickColor": 348}
+        }
+      },
+      "Intelligence Agency": {
+        "$className": "Team",
+        "$properties": {
+          "AutoAssignable": false,
+          "TeamColor": {"BrickColor": 1003}
+        }
+      },
+      "Janitor": {
+        "$className": "Team",
+        "$properties": {
+          "AutoAssignable": false,
+          "TeamColor": {"BrickColor": 11}
+        }
+      },
+      "MTF Alpha-1": {
+        "$className": "Team",
+        "$properties": {
+          "AutoAssignable": false,
+          "TeamColor": {"BrickColor": 332}
+        }
+      },
+      "MTF Beta-7": {
+        "$className": "Team",
+        "$properties": {
+          "AutoAssignable": false,
+          "TeamColor": {"BrickColor": 303}
+        }
+      },
+      "MTF Epsilon-11": {
+        "$className": "Team",
+        "$properties": {
+          "AutoAssignable": false,
+          "TeamColor": {"BrickColor": 133}
+        }
+      },
+      "MTF Nu-7": {
+        "$className": "Team",
+        "$properties": {
+          "AutoAssignable": false,
+          "TeamColor": {"BrickColor": 317}
+        }
+      },
+      "MTF Omega-1": {
+        "$className": "Team",
+        "$properties": {
+          "AutoAssignable": false,
+          "TeamColor": {"BrickColor": 1021}
+        }
+      },
+      "Medical Department": {
+        "$className": "Team",
+        "$properties": {
+          "AutoAssignable": false,
+          "TeamColor": {"BrickColor": 318}
+        }
+      },
+      "RAISA": {
+        "$className": "Team",
+        "$properties": {
+          "AutoAssignable": false,
+          "TeamColor": {"BrickColor": 26}
+        }
+      },
+      "Scientific Department": {
+        "$className": "Team",
+        "$properties": {
+          "AutoAssignable": false,
+          "TeamColor": {"BrickColor": 302}
+        }
+      },
+      "Security Department": {
+        "$className": "Team",
+        "$properties": {
+          "AutoAssignable": false,
+          "TeamColor": {"BrickColor": 1001}
+        }
+      },
+      "Site Director": {
+        "$className": "Team",
+        "$properties": {
+          "AutoAssignable": false,
+          "TeamColor": {"BrickColor": 194}
+        }
+      }
     }
   }
 }
